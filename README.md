@@ -85,3 +85,9 @@ MIT
 
 ## Author
 Praneeth Jarpla
+
+## 🔗 Live Demo
+- **Dashboard:** [Streamlit App](https://your-app-name.streamlit.app) *(replace with your actual URL)*
+- **API Docs:** [https://customer-churn-prediction-szjl.onrender.com/docs](https://customer-churn-prediction-szjl.onrender.com/docs)
+
+> Note: The API is hosted on Render's free tier and may take 30-60 seconds to wake up on first request after a period of inactivity.
